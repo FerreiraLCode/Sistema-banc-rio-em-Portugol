@@ -1,2 +1,2 @@
-# Sistema-banc-rio-em-Portugol
+# Sistema-bancário-em-Portugol
 Atividade Hora de Codar 5
